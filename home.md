@@ -2,7 +2,7 @@
 title: 귀 하신 분들
 description: 
 published: true
-date: 2025-03-28T16:53:19.144Z
+date: 2025-03-28T17:16:43.842Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T13:32:58.193Z
@@ -12,4 +12,7 @@ dateCreated: 2025-03-22T13:32:58.193Z
 
 
 ![image-20250310234511815.png](/image-20250310234511815.png)
+
+![image-20250228000240228-0668801.png](/image-20250228000240228-0668801.png)
+
 
