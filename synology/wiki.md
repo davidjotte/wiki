@@ -8,17 +8,17 @@ editor: undefined
 dateCreated: 2025-03-28T06:34:28.598Z
 ---
 
-# wiki.js 에서 
+## github 에서 수정함. 
+이게 반영되면 정상적인 sync 라고 할 수 있다. 
 
 
-Your content here
+-  sftp 백업이 더 빠른 듯한데.. 이걸 이용해도 좋은지 
 
 
-## Local 로 git clone  왜 안 되는가.
+## synology gitlab docker 랑 연결하면 web interface 가 생기나..
 
 
 
-## gitlab docker 랑 연결하면 web interface 가 생기나..
 
 
 
