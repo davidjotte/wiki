@@ -15,7 +15,8 @@ dateCreated: 2025-03-28T06:34:28.598Z
 -  sftp 백업이 더 빠른 듯한데.. 이걸 이용해도 좋은지 
 
 
-## synology gitlab docker 랑 연결하면 web interface 가 생기나..
+
+#### synology gitlab docker 랑 연결하면 web interface 가 생기나..
 
 
 
