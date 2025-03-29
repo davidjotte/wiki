@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>레이저 수술 비디오.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>764913140.249686</real>
+				<key>version</key>
+				<dict>
+					<key>fe21bcdad06c1fb70efa8279f8e23aae1cc88969c75157deadfee7cbbc92abd7</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>삼출성 중이염 - 레이저 튜브 FITT (맞춤) 시술 1페이저 정리.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>764906502.58078003</real>
+				<key>lastModification</key>
+				<real>764913140.24968505</real>
+				<key>version</key>
+				<dict>
+					<key>fe21bcdad06c1fb70efa8279f8e23aae1cc88969c75157deadfee7cbbc92abd7</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>삼출성 중이염은 시간으로 치료합니다.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>764913172.050928</real>
+				<key>version</key>
+				<dict>
+					<key>fe21bcdad06c1fb70efa8279f8e23aae1cc88969c75157deadfee7cbbc92abd7</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>튜브 수술은 6개월 - 레이저 수술 FITT 은 3개월 의 시간을 삽니다.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>764913234.88311696</real>
+				<key>version</key>
+				<dict>
+					<key>fe21bcdad06c1fb70efa8279f8e23aae1cc88969c75157deadfee7cbbc92abd7</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>튜브 수술은 6개월 - 레이저 수술 FITT 은 3개월 의 시간을 삽니다.md</string>
+		</array>
+		<array>
+			<string>삼출성 중이염 - 레이저 튜브 FITT (맞춤) 시술 1페이저 정리.md</string>
+		</array>
+		<array>
+			<string>삼출성 중이염은 시간으로 치료합니다.md</string>
+		</array>
+		<array>
+			<string>레이저 수술 비디오.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>fe21bcdad06c1fb70efa8279f8e23aae1cc88969c75157deadfee7cbbc92abd7</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
