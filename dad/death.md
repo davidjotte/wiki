@@ -2,14 +2,11 @@
 title: 죽음에 대하여 생각하는  나이 60
 description: 
 published: true
-date: 2025-03-28T17:28:55.660Z
+date: 2025-03-29T04:00:04.628Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-28T17:27:11.292Z
+dateCreated: 2025-03-28T23:45:29.635Z
 ---
-
-
-
 
 현균이 대장암. 
 아니 벌서 내  나이에. 했지만 내가 이미 60 이라.. 현균이는 한살 더 많고 . 
