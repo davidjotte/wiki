@@ -2,13 +2,19 @@
 title: 진주종 이야기 : 관련 자료
 description: 
 published: true
-date: 2025-03-29T07:02:40.073Z
+date: 2025-03-29T08:39:53.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T03:59:18.041Z
 ---
 
-# Header
 
-git 의 폴더는 어떻게 올라오나.. 
+# Otology Bookd pdf  
+
+
+[교과서 34장 돌발성 난청](/ocr/34_돌발성 난청 copy.pdf)
+
+
+
+
 
