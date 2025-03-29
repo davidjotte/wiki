@@ -2,7 +2,7 @@
 title: 삼출성 중이염은 시간으로 치료합니다.
 description: 
 published: true
-date: 2025-03-29T09:01:02.158Z
+date: 2025-03-29T09:03:12.210Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T09:01:02.158Z
