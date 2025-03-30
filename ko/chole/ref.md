@@ -9,11 +9,6 @@ dateCreated: 2025-03-29T03:59:18.041Z
 ---
 
 
-# Otology Bookd pdf  
-
-
-[교과서 34장 돌발성 난청](/ocr/34_돌발성 난청 copy.pdf)
-
 
 
 
