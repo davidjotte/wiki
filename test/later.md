@@ -2,13 +2,11 @@
 title: README
 description: 
 published: true
-date: 2025-03-28T17:09:26.225Z
+date: 2025-03-29T07:00:07.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T16:23:32.002Z
 ---
-
-
 
 ### notion + super.site 보다 글이 잘 써지는. 
 보다 만들기 편한 위키
