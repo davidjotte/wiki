@@ -2,7 +2,7 @@
 title: 귀 하신 분들
 description: 
 published: true
-date: 2025-03-30T07:46:53.738Z
+date: 2025-03-30T08:04:49.093Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T04:28:30.088Z
@@ -18,4 +18,4 @@ dateCreated: 2025-03-29T04:28:30.088Z
 [귀에 관하여](/ear)
 
 
-see [readme](/en/later)
+see [later](/en/later)
