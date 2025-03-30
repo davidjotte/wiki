@@ -15,4 +15,7 @@ dateCreated: 2025-03-22T13:32:58.193Z
 
 ![image-20250228000240228-0668801.png](/image-20250228000240228-0668801.png)
 
+[귀에 관하여](/ear)
+[obsidian:귀에 관하여](obsidian://open?vault=wiki&file=ear)
 
+see [readme](/test/readme)
