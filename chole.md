@@ -2,7 +2,7 @@
 title: 진주종 이야기
 description: 
 published: true
-date: 2025-03-30T08:08:40.209Z
+date: 2025-03-30T08:25:35.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T04:28:07.338Z
@@ -24,7 +24,7 @@ dateCreated: 2025-03-29T04:28:07.338Z
 그러나 진주종이 진주색이어야 하는데 어디 있느냐고 자꾸 묻는 분도 있다. 
 
 흰색 진주종. 보통 선천성 진주종 . 소아 진주종을 의미한다. 
-![nejmicm0911270_f1.jpg](/i/nejmicm0911270_f1.jpg)
+![nejmicm0911270_f1.jpg](/image/nejmicm0911270_f1.jpg)
 
 <p>
 
@@ -32,7 +32,7 @@ dateCreated: 2025-03-29T04:28:07.338Z
 그러나 진주색 이란 색이 한 가지 색깔이 아니다. 진주종 겉색깔은 다 다르다. 안쪽은 다 하얀색일 지라도. 
 이를 테면  성인 진주종. 겉이 노란색 갈색 흑색 다양하다. 
 
-![black_yellow_-cholesteatoma-in-.jpg](/i/black_yellow_-cholesteatoma-in-.jpg)
+![black_yellow_-cholesteatoma-in-.jpg](/image/black_yellow_-cholesteatoma-in-.jpg)
 
  이럴 줄 알았으면 진주종 말고 . 카멜레온색 종 이라고 할 걸 그랬나 . 
 
