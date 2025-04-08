@@ -2,9 +2,9 @@
 title: 진주종 이야기
 description: 
 published: true
-date: 2025-03-30T08:25:35.924Z
+date: 2025-03-30T08:25:40.571Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2025-03-29T04:28:07.338Z
 ---
 
