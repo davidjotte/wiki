@@ -1,6 +1,6 @@
 # readme. github
 
-gitsync 방식 - folder 만들어도 gitbook 에 오지 않는다 유의.&#x20;
+gitsync 방식 - folder 만들어도 gitbook 에 오지 않는다 유의 ???   이상한데.&#x20;
 
 * 심지어 폴더가 없어지는 황당한 일이.&#x20;
 
