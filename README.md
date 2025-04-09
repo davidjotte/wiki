@@ -1,3 +1,5 @@
 hello here .  
-page.earlaser.net
-earlaser.githug.io   
+
+(http://page.earlaser.net)
+(http://earlaser.github.io)   
+
