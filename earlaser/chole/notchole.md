@@ -9,8 +9,7 @@ dateCreated: 2025-04-03T14:26:46.968Z
 ---
 
 # Header
-Your content here
 
 
 https://cafe.naver.com/earlaser/42798
-![1280＿20250327＿171107.jpg](/진주종 이야기/1280＿20250327＿171107.jpg)
+![1280＿20250327＿171107.jpg](/진주종 이야기/1280＿20250327＿171107.jpg)![1280＿20250327＿171107](/Users/gg/Library/Mobile Documents/com~apple~CloudDocs/image/notchole/1280＿20250327＿171107.jpg)
