@@ -1,13 +1,20 @@
 # readme. github
 
+!! gitsync 방식 - /earlaser folder  싱크  - github desktop 에서 편집 가능. &#x20;
+
+* 그러나 전체 pull 은 왜 안 되는 걸까..
+
+* 아님  directory 통으로 올릴 방법이 ??
+
+  
+
 #### 장점&#x20;
 
 * 왠지 빠르다.&#x20;
 * dynamic 사이드바  - 이게 최고.&#x20;
-* gitsync 방식 - /earlaser folder  싱크하는 게 편함.&#x20;
-  * 그러나 전체 pull 은 왜 안 되는 걸까..&#x20;
+* * &#x20;
 
-단점&#x20;
+### 단점&#x20;
 
 * 한글 먹통&#x20;
   * page  제목을 한글로 하면 에러 생김. - 한글 깨지는 거 적응
