@@ -7,7 +7,8 @@
 * [선천성 진주종의 레이저 최소절개 LASIC 수술 네이버 카페](chole/lasic/README.md)
   * [진주종의 색깔은 진주종인가.](chole/lasic/untitled.md)
   * [not chole 진주종으로 오진 = 진주종처럼 보이지만 진주종이 아닌 경우 (소아 선천성)](chole/lasic/not-chole.md)
-  * [ossicle  소리뼈 이소골](chole/lasic/ossicle.md)
+  * [ossicle story 소리뼈를 아시나요](chole/lasic/ossicle-story.md)
+  * [ossicle  소리뼈 이소골을 알아야 하는 이유 - 진주종](chole/lasic/ossicle.md)
 * [search  선천성 진주종 검색 기사](chole/search.md)
 
 ## OME
