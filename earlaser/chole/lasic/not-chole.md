@@ -1,10 +1,10 @@
-# not chole 진주종이 아닌 경우 (소아 선천성)
+# not chole 진주종으로 오진 = 진주종처럼 보이지만 진주종이 아닌 경우 (소아 선천성)
 
 
 
 
 
-<figure><img src="../.gitbook/assets/1280＿20250327＿171107.jpg" alt="" width="563"><figcaption><p><a href="https://cafe.naver.com/earlaser/42798">https://cafe.naver.com/earlaser/42798</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1280＿20250327＿171107.jpg" alt="" width="563"><figcaption><p><a href="https://cafe.naver.com/earlaser/42798">https://cafe.naver.com/earlaser/42798</a></p></figcaption></figure>
 
 
 
@@ -25,7 +25,7 @@
 `일주일사이에 진주종이 없어지는경우도있나여...?믿겨지지가안아서여...좋기도하지만 혹시나 하는마음이 들어서여`\
 `[출처]` [`교수님 너무 궁금합니다 (소중한 아이들 이비인후과 이비인닷컴)`](https://cafe.naver.com/earlaser/23757) `| 작성자` [`예지맘사랑`](https://cafe.naver.com/earlaser.cafe?iframe_url=%2Fca-fe%2Fcafes%2F12763967%2Fmembers%2FEVhcPaF7tXLKsMddOjfWUw)&#x20;
 
-<figure><img src="../.gitbook/assets/image-20250409092326464.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-20250409092326464.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
