@@ -8,7 +8,8 @@
   * [진주종의 색깔은 진주종인가.](chole/lasic/untitled.md)
   * [not chole 진주종으로 오진 = 진주종처럼 보이지만 진주종이 아닌 경우 (소아 선천성)](chole/lasic/not-chole.md)
   * [ossicle story 소리뼈를 아시나요](chole/lasic/ossicle-story.md)
-  * [ossicle  소리뼈 이소골을 알아야 하는 이유 - 진주종](chole/lasic/ossicle.md)
+  * [ossicle  소리뼈 이소골을 알아야 하는 이유 - 진주종](chole/lasic/ossicle/README.md)
+    * [Anatomy ... of the temporal bone](chole/lasic/ossicle/anatomy-...-of-the-temporal-bone.md)
 * [search  선천성 진주종 검색 기사](chole/search.md)
 
 ## OME
