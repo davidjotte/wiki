@@ -13,9 +13,11 @@
   * [ossicle  소리뼈 이소골을 알아야 하는 이유 - 진주종](chole/lasic/ossicle/README.md)
     * [Anatomy ... of the temporal bone](chole/lasic/ossicle/anatomy-...-of-the-temporal-bone.md)
 * [search  선천성 진주종 검색 기사](chole/search.md)
-* [성인 진주종 수술](chole/chole2/README.md)
-  * [“트럼프가 100년 전 악몽 되살려... 美·세계 경제 망칠 것”](chole/chole2/100-...-mei.md)
-  * [성인 진주종 수술을 억까하자면](chole/chole2/undefined.md)
+
+## CHOLE2
+
+* [성인 진주종 수술을 억까하자면 왜 하는가](chole2/why.md)
+* [Page 2](chole2/page-2.md)
 
 ## OME
 
@@ -27,11 +29,8 @@
 
 ## Essay
 
-* [Page 1](essay/page-1.md)
-
-## Memo
-
-* [Page 2](memo/page-2.md)
+* [Page 1](essay/page-1/README.md)
+  * [“트럼프가 100년 전 악몽 되살려... 美·세계 경제 망칠 것”](essay/page-1/100-...-mei.md)
 
 ***
 

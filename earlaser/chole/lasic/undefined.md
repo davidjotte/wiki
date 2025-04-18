@@ -17,8 +17,15 @@
 
 
 
-수술실이 궁금하신 거라면\
-\> https://jomi.com/article/222/mastoidectomy/ko&#x20;
+수술실이 궁금하신 거라면
+
+{% embed url="https://jomi.com/article/222/mastoidectomy/ko" %}
+수ㄹㅣ&#x20;
+{% endembed %}
+
+
+
+
 
 에서 보실 수 있습니다.\
 일반적인 귀뒤 절개 성인 수술이지만 수술실 셋업은 동일합니다.
