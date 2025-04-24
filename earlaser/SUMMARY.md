@@ -21,7 +21,7 @@
 
 ## OME
 
-* [Page 1 중이염 이야기](ome/page-1.md)
+* [중이염에 대한 면역치료](ome/page-1.md)
 
 ## Column
 
