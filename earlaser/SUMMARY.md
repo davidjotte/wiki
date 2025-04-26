@@ -22,6 +22,7 @@
 ## OME
 
 * [중이염에 대한 면역치료](ome/page-1.md)
+* [중이염 튜브 수술을 남용하지 말자](ome/undefined.md)
 
 ## Column
 
